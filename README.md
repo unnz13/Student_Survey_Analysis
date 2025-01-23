@@ -51,7 +51,7 @@ This analysis underscores the importance of targeted service improvements, strat
 
 ## Author
 **Unnati Gaglani**
-- Email: [Gaglani.u@northeastern.edu](mailto:Gaglani.u@northeastern.edu)
+- Email: [unnatigaglani1993@gmail.com](mailtounnatigaglani1993@gmail.com)
 
 ## Usage
 This repository is intended for stakeholders and analysts interested in leveraging data-driven insights to enhance career services and better support student development.
